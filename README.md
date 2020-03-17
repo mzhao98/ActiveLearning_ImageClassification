@@ -77,6 +77,8 @@ The above notebook runs active learning of all four metrics on the Fruits360 dat
 
 The Fruits360 dataset is a dataset of fruits and vegetables by Mendeley Data. Fruits and vegetables were planted in the shaft of a low speed motor (3 rpm) and a short movie of 20 seconds was recorded. A Logitech C920 camera was used for filming the fruits. The images show the fruits rotated in different angles. 
 
+![alt text](https://github.com/mzhao98/ActiveLearning_ImageClassification/blob/master/ims/c2.png)
+
 We made modifications to the dataset in order to reduce the number of classes from 120 to 10. We selected 10 classes: Apple, Tomato, Potato, Banana, Pear, Pineapple, Pepper, Strawberry, Onion, and Plum. We combined specific strains of fruit like Crimson Snow Apple and Red Delicious Apple all into the Apple category, for each fruit category. Our final dataset is in a folder named categories_fruits_big. The current uploaded categories_fruits_big dataset is a VERY truncated version of the actual dataset. 
 
 A similar version of the dataset can be constructed by following the instructions above. For access to our created categories_fruits_big dataset, please raise an issue.
