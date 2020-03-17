@@ -8,4 +8,4 @@ The motivation for active learning is a scenario in which we have a large pool o
 Passive learning, the standard framework in which a large quantity of labelled data is passed to the algorithm, requires significant effort in labelling the entire set of data.
 
 
-![alt text](https://github.com/mzhao98/ActiveLearning_ImageClassification/ims/passive.png)
+![alt text](https://github.com/mzhao98/ActiveLearning_ImageClassification/blob/master/ims/passive.png)
