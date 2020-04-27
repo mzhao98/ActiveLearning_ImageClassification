@@ -20,7 +20,10 @@ A real-world application of this is training an image classification model to di
 
 In several cases, active learning performs better than random sampling. The below graph shows a motivating toy example of active learning’s improvement over random selection. The entire set of data points (union of the sets of red triangles and green circles) is not linearly separable.
 
-![alt text](https://github.com/mzhao98/ActiveLearning_ImageClassification/blob/master/ims/a2.png)
+//![alt text](https://github.com/mzhao98/ActiveLearning_ImageClassification/blob/master/ims/a2.png)
+<p align="center">
+  <https://github.com/mzhao98/ActiveLearning_ImageClassification/blob/master/ims/a2.png />
+</p>
 
 The active learning framework reduces the selection of data to a problem of determining which are the most informative data points in the set? In active learning, the most informative data points are generally the ones that the model is most uncertain about. This leads to developing various metrics and definitions to measure, quantify, and compare uncertainty of examples. Active learning is motivated by the understanding that not all labelled examples are equally important. With uniform random sampling over all of the examples, the learned model doesn’t quite represent the division between classes. However, active learning selects examples near the class boundary, and is able to find a more representative classifier. Previous research has also shown that active learning offers improvement over standard random selection.
 
