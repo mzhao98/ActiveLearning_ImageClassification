@@ -20,7 +20,7 @@ A real-world application of this is training an image classification model to di
 
 In several cases, active learning performs better than random sampling. The below graph shows a motivating toy example of active learning’s improvement over random selection. The entire set of data points (union of the sets of red triangles and green circles) is not linearly separable.
 
-//![alt text](https://github.com/mzhao98/ActiveLearning_ImageClassification/blob/master/ims/a2.png)
+![alt text](https://github.com/mzhao98/ActiveLearning_ImageClassification/blob/master/ims/a2.png?style=centerme)
 <p align="center">
   <https://github.com/mzhao98/ActiveLearning_ImageClassification/blob/master/ims/a2.png />
 </p>
