@@ -73,7 +73,7 @@ The algorithm below is one for pool-based active learning. Stream-based active l
 
 A principle bottleneck in large-scale classification tasks is the large number of training examples needed for training a classifier. Using active learning, we can reduce the number of training examples needed to teach a classifier by strategically selecting particular examples. Assigning value to examples using different uncertainty metrics allows the model to identify and select high-value examples in a smaller training set size.
 
-You may see active learning referred to in literature as optimal experimental design. Active learning is a very exciting and promising branch of AI!
+You may see active learning referred to in literature as optimal experimental design. 
 
 # Jupyter Notebook
 The above notebook runs active learning of all four metrics on the Fruits360 dataset. 
