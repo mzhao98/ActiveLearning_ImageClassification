@@ -1,5 +1,5 @@
 # ActiveLearning_ImageClassification
-Active Learning for Multiclass Image Classification on Fruits360 Dataset
+Active Learning for Multiclass Image Classification on Fruits360 Dataset. This work was done for Caltech's CS 186 Computer Vision course with Prof. Pietro Perona. The link to the associated report is https://github.com/mzhao98/ActiveLearning_ImageClassification/blob/master/active_learning_paper.pdf.
 
 ## What is Active Learning?
 Active learning is a machine learning framework in which the learning algorithm can interactively query a user (teacher or oracle) to label new data points with the true labels.
